@@ -1,6 +1,13 @@
 # packstation-barcode
 
-Erstellung von Barcodes für DHL Goldcard
+## Bedienung Node.js:
+
+```sh
+yarn install
+yarn start [PostNummer]
+```
+
+## Erstellung von Barcodes für DHL Goldcard
 
 __Deutsche Post DHL hat einfach an Packstationen den Kartenleser
 ausgebaut und duch einen Barcodeleser ersetzt, ohne den
